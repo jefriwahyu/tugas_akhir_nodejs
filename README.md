@@ -1,6 +1,6 @@
 # Tugas Akhir NodeJS
 
-Membuat <b><i>Membuat API Data Mahasiswa</i></b>
+Membuat <b><i>API Data Mahasiswa</i></b> Dengan Fitur <b><i>CRUD</i></b>
 
 <ul>
   <li><b>Struktur Project</b></li>
